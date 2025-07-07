@@ -1,0 +1,8 @@
+[
+  { "name": "Дежурный",           "hoursCounted": 24, "allowedRanks": ["Мл. лейтенант","Лейтенант","Капитан","Майор","Подполковник","Полковник"], "cycle": [3] },
+  { "name": "Помощник дежурного",  "hoursCounted": 24, "allowedRanks": [], "cycle": [1,1,2] },
+  { "name": "КПП",                "hoursCounted": 24, "allowedRanks": [], "cycle": [1,1,2] },
+  { "name": "КПП2",               "hoursCounted": 24, "allowedRanks": [], "cycle": [1,1,2] },
+  { "name": "ТСО (день)",         "hoursCounted": 12, "allowedRanks": [], "cycle": [1,1,2] },
+  { "name": "ТСО (ночь)",         "hoursCounted": 12, "allowedRanks": [], "cycle": [1,1,2] }
+]

@@ -1,0 +1,13 @@
+/* src/App.css */
+
+.header {
+  background-color: #2a2a2a;       /* тёмно-серый фон */
+  color: #ffffff;                  /* белый текст */
+  padding: 20px 40px;              /* отступы сверху-снизу и слева-справа */
+  font-size: 32px;                 /* крупный шрифт */
+  font-weight: 700;                /* жирное начертание */
+  letter-spacing: 1.5px;           /* межбуквенный интервал */
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  border-bottom: 3px solid #444;   /* тонкая линия внизу */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
